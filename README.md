@@ -22,7 +22,7 @@
 ### Connect with me:
 
 <a href="www.linkedin.com/in/sophierkneeshaw">
-<img src="Images\BirdLogo.png" alt='LinkedIn Icon'  width='30px'/></a> 
+<img src="Images\LinkedIn.png" alt='LinkedIn Icon'  width='30px'/></a> 
 <br>
 
 ### Technical Skills:
@@ -62,6 +62,6 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 <br>
 
-### Project Links
+<!-- ### Project Links -->
 
 <br>
