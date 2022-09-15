@@ -17,8 +17,11 @@ Hello, I'm Sophie and welcome to my GitHub page. 👋
 <!-- Connect with me:
 <a href="www.linkedin.com/in/sophierkneeshaw"><img align=”left” src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a> -->
 
+<img alt=”React” src=”https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 <!-- Technical Skills:
 
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <a href= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <a href= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <a href= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
