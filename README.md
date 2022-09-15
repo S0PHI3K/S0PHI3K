@@ -1,5 +1,5 @@
 <p align='center'> 
-<img src="https://user-images.githubusercontent.com/107502956/190382574-ca6c762d-14df-44cf-a832-f2cbda18b228.png" alt='my banner'>
+<img src="https://user-images.githubusercontent.com/107502956/190382574-ca6c762d-14df-44cf-a832-f2cbda18b228.png" alt='my banner' width=150px height=150px>
 </p>
 
 Hello, I'm Sophie and welcome to my GitHub page. 👋
@@ -17,7 +17,7 @@ Hello, I'm Sophie and welcome to my GitHub page. 👋
 <!-- Connect with me:
 <a href="www.linkedin.com/in/sophierkneeshaw"><img align=”left” src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a> -->
 
-Technical Skills:
+<!-- Technical Skills:
 
 <a href= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <a href= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -30,19 +30,22 @@ Technical Skills:
 <a href = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <a href= "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 
-IDE
+IDE:
+
 <a href= "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <a href= "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 <a href= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 Education:
+
 <a href="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347">
 <a href="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
 <a href= "https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white">
 <a href="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 
 Design:
+
 <a href= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<a href= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<a href= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> -->
 
 <!-- Project Links: -->
