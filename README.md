@@ -4,9 +4,9 @@
 
 ### Hello, I'm Sophie and welcome to my GitHub page. 👋
 
-    I transitioned into tech in May 2022.
+I transitioned into tech in May 2022.
 
--💬 If you have any questions or feedback, please do not hesitate to reach out to me.
+💬 If you have any questions or feedback, please do not hesitate to reach out to me.
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-- 💃 I'm currently a mentee at [Cajigo] (http://www.structur3dpeople.co.uk/cajigo/)
+- 💃 I'm currently a mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
 - 🔭 I’m currently working on personal projects to improve my skill set.
 - 🌱 I’m currently learning React hooks and redux through thge Code First Girls Mobile App Development course.
 - 👯 I’m looking to collaborate on projects
@@ -23,9 +23,9 @@
 - 🎓 I'm a [Code First Girls](https://codefirstgirls.com/courses/cfgdegree/) Full Stack Developer Graduate, achieving 90% (Distinction)
 - 👩‍🎓 I've just completed [Code First Girls](https://codefirstgirls.com/courses/masters/) Masters in Mobile App Development
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: One of my favourite concerts was seeing the Vengaboys in 2017 (don't be afraid to ask me why!)
+- ⚡ Fun fact: One of my favourite concerts was seeing the Vengaboys in 2017 (controversial, I know!)
 
-### 🤝 Connect with me: <a href="www.linkedin.com/in/sophierkneeshaw">
+### 🤝 Connect with me: <a href="https://www.linkedin.com/in/sophierkneeshaw">
 
 <img src="Images\LinkedIn.png" alt='LinkedIn Icon'  width='30px'/></a>
 <br>
@@ -78,7 +78,7 @@ The Full Stack Developer degree was split into two sections. During the foundati
 The specialistion section focused on learning Javascript and React. Code snippets from this section can be found [here](https://github.com/S0PHI3K/Specialisation).
 
 <br>
-
+<!-- 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=S0PHI3K)](https://github.com/S0PHI3K)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0PHI3K&layout=compact)](https://github.com/S0PHI3K)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0PHI3K&layout=compact)](https://github.com/S0PHI3K) --> -->
