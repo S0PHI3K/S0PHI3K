@@ -1,5 +1,5 @@
 <p align='center'> 
-<img src="https://user-images.githubusercontent.com/107502956/190382574-ca6c762d-14df-44cf-a832-f2cbda18b228.png" alt='my banner' width=150px height=150px>
+<img src="Images/SophieKneeshaw.png" alt='my banner' width='100%' height=200px>
 </p>
 
 ### Hello, I'm Sophie and welcome to my GitHub page. 👋
@@ -78,7 +78,7 @@ The Full Stack Developer degree was split into two sections. During the foundati
 The specialistion section focused on learning Javascript and React. Code snippets from this section can be found [here](https://github.com/S0PHI3K/Specialisation).
 
 <br>
-<!-- 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=S0PHI3K)](https://github.com/S0PHI3K)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0PHI3K&layout=compact)](https://github.com/S0PHI3K) --> -->
+![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0PHI3K&theme=jolly&show_icons=true)
+[![Sophie's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S0PHI3K&theme=jolly&background=291C3E)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0PHI3K&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
