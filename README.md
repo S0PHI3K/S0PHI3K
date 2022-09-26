@@ -1,5 +1,5 @@
 <p align='center'> 
-<img src="Images/SophieKneeshaw.png" alt='my banner' width='100%' height=200px>
+<img src="Images/SophieKneeshaw.png" alt='my banner' width='100%' height=300px>
 </p>
 
 ### Hello, I'm Sophie and welcome to my GitHub page. 👋
@@ -79,6 +79,5 @@ The specialistion section focused on learning Javascript and React. Code snippet
 
 <br>
 
-![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0PHI3K&theme=jolly&show_icons=true)
-[![Sophie's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S0PHI3K&theme=jolly&background=291C3E)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0PHI3K&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0PHI3K)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0PHI3K&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
