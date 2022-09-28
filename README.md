@@ -79,5 +79,22 @@ The specialistion section focused on learning Javascript and React. Code snippet
 
 <br>
 
+### 💻 Scrimba Projects
+
+Projects feature netlify links to view apps in a web browser
+
+React Section 1
+
+- [Digitial Business Card](https://github.com/S0PHI3K/Digital-Business-Card)
+
+React Section 2
+
+- [Travel Solo Project](https://github.com/S0PHI3K/Scrimba-Travel-Solo-Project)
+  Code along projects in section 2
+- [Jokes Project](https://github.com/S0PHI3K/Scrimba-Joke-Project)
+- [AirBnB Project](https://github.com/S0PHI3K/Scrimba-AirBnB-Project)
+
+<br>
+
 [![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0PHI3K)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0PHI3K&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
