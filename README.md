@@ -90,7 +90,9 @@ React Section 1
 React Section 2
 
 - [Travel Solo Project](https://github.com/S0PHI3K/Scrimba-Travel-Solo-Project)
-  Code along projects in section 2
+
+Code along projects in section 2
+
 - [Jokes Project](https://github.com/S0PHI3K/Scrimba-Joke-Project)
 - [AirBnB Project](https://github.com/S0PHI3K/Scrimba-AirBnB-Project)
 
