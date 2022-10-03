@@ -83,18 +83,21 @@ The specialistion section focused on learning Javascript and React. Code snippet
 
 Projects feature netlify links to view apps in a web browser
 
-React Section 1
+### Learn React for Free:
 
 - [Digitial Business Card](https://github.com/S0PHI3K/Digital-Business-Card)
-
-React Section 2
-
 - [Travel Solo Project](https://github.com/S0PHI3K/Scrimba-Travel-Solo-Project)
 
-Code along projects in section 2
+Code along projects during Learn React for Free
 
 - [Jokes Project](https://github.com/S0PHI3K/Scrimba-Joke-Project)
 - [AirBnB Project](https://github.com/S0PHI3K/Scrimba-AirBnB-Project)
+
+### Essential JavaScript Concepts
+
+Code along projects during Essential JavaScript Concepts
+
+- [Cookie Consent Project](https://github.com/S0PHI3K/Scrimba-Cookie-Consent-Project)
 
 <br>
 
