@@ -16,12 +16,12 @@ I transitioned into tech in May 2022.
 
 - 💃 I'm currently a mentee at [Cajigo](http://www.structur3dpeople.co.uk/cajigo/)
 - 🔭 I’m currently working on personal projects to improve my skill set.
-- 🌱 I’m currently learning React hooks and redux through thge Code First Girls Mobile App Development course.
+- 🌱 I’m currently consolidating my learning through the various Scrimba Projects.
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with improving the quality of my code and testing code.
 - 💬 Ask me about my transition in tech from writing my first line of code in February 2022.
 - 🎓 I'm a [Code First Girls](https://codefirstgirls.com/courses/cfgdegree/) Full Stack Developer Graduate, achieving 90% (Distinction)
-- 👩‍🎓 I've just completed [Code First Girls](https://codefirstgirls.com/courses/masters/) Masters in Mobile App Development
+- 👩‍🎓 I've recently completed [Code First Girls](https://codefirstgirls.com/courses/masters/) Masters in Mobile App Development, achieving 94% (Distinction)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: One of my favourite concerts was seeing the Vengaboys in 2017 (controversial, I know!)
 
@@ -57,8 +57,9 @@ I transitioned into tech in May 2022.
 
 ### 🏢 Education:
 
-- +Masters Mobile App Development with [Code First Girls](https://codefirstgirls.com/courses/masters/)
-- Full Stack Developer Degree with [Code First Girls](https://codefirstgirls.com/courses/cfgdegree/)
+- +Masters Mobile App Development with [Code First Girls](https://codefirstgirls.com/courses/masters/) - Distinction (94%)
+- Full Stack Developer Degree with [Code First Girls](https://codefirstgirls.com/courses/cfgdegree/) - Distinction (90%)
+- JavaScript MOOC Sprint with [Code First Girls](https://codefirstgirls.com/courses/moocs/)
 - Data & SQL MOOC Sprint with [Code First Girls](https://codefirstgirls.com/courses/moocs/)
 - UX/UI MOOC Sprint with [Code First Girls](https://codefirstgirls.com/courses/moocs/)
 - Bug Fixing MOOC Sprint with [Code First Girls](https://codefirstgirls.com/courses/moocs/)
