@@ -93,6 +93,7 @@ Code along projects during Learn React for Free
 
 - [Jokes Project](https://github.com/S0PHI3K/Scrimba-Joke-Project)
 - [AirBnB Project](https://github.com/S0PHI3K/Scrimba-AirBnB-Project)
+- [Meme Generator](https://github.com/S0PHI3K/Scrimba-Meme-Generator)
 
 ### Essential JavaScript Concepts
 
