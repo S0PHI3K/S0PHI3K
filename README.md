@@ -4,7 +4,7 @@
 
 ### Hello, I'm Sophie and welcome to my GitHub page. 👋
 
-👀 Checkout my [portfolio website]()  👀
+👀 Checkout my [portfolio website](https://s0phi3k.github.io/portfolio.github.io/)  👀
 
 <br>
 
