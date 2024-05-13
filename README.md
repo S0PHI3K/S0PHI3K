@@ -4,16 +4,13 @@
 
 ### Hello, I'm Sophie and welcome to my GitHub page. 👋
 
-👀 Checkout my[portfolio website]()  👀
+👀 Checkout my [portfolio website]()  👀
 
 <br>
 
 ### 👩‍💻 About Me:
 
-### 🤝 Connect with me: <a href="https://www.linkedin.com/in/sophierkneeshaw">
 
-<img src="Images\LinkedIn.png" alt='LinkedIn Icon'  width='30px'/></a>
-<br>
 
 ### 💼 Technical Skills:
 
@@ -22,7 +19,7 @@
 
 ### 📄 Frameworks:
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 <br>
 
 ### 💻 Hosting:
