@@ -1,5 +1,5 @@
 <p align='center'> 
-<img src="Images/SophieKneeshaw.png" alt='my banner'>
+<img src="Images/GitHub Banner.png" alt='my banner'>
 </p>
 
 ### Hello, I'm Sophie and welcome to my GitHub page. 👋
