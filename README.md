@@ -2,19 +2,9 @@
 <img src="Images/GitHub Banner.png" alt='my banner'>
 </p>
 
-### Hello, I'm Sophie and welcome to my GitHub page. 👋
 
-👀 Checkout my [portfolio website](https://s0phi3k.github.io/portfolio.github.io/)  👀
+<p style="color:blue; font-family: Arial"> 👀 Checkout my [portfolio website](https://s0phi3k.github.io/portfolio.github.io/)  👀 </p>
 
-<br>
-
-### 👩‍💻 About Me:
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/sophierkneeshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sophierkneeshaw" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
