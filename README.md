@@ -2,7 +2,7 @@
 <img src="Images/GitHub Banner.png" alt='my banner'>
 </p>
 
-<p align='center'>Visit my <a href="https://s0phi3k.github.io/portfolio.github.io/" target="_blank" rel="noreferrer">Portfolio Website</a> </p>
+<!-- <p align='center'>Visit my <a href="https://s0phi3k.github.io/portfolio.github.io/" target="_blank" rel="noreferrer">Portfolio Website</a> </p> -->
 
 I am a self-motivated women in tech, who is passionate about: <br/>
 
